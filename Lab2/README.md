@@ -1,4 +1,4 @@
-# Intelligent Agents Lab 2
+# CP5609 Lab 2
 
 ## Overview
 
